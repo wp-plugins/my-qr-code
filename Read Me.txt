@@ -1,0 +1,34 @@
+=== My QR Code  ===
+Contributors: Mehdi Laidouni
+Donate link: http://www.eksit.co/
+Tags: qr,code,call,to,action,vCard,vCalendar Event,vCalendar Event,WIFI Network for Android,
+Requires at least: 3.5
+Tested up to: 3.0.1
+Stable tag: 3.4
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+My QR Code allows you to insert a QR Tag into any WordPress post or page, there are a number of different options that can be encoded into the QR Tag to make the user do as you want..., for instance you can make the user:
+
+Browse to a Website
+Bookmark a Website
+Make a Phone Call
+Send an SMS
+Send an E-Mail
+Create a vCard
+Create a meCard
+Create a vCalendar Event
+Youtube URL for iPhone
+Tweet on Twitter
+Create Blackberry Messenger User
+WIFI Network for Android
+Free Formatted Text
+
+== Description ==
+
+You can use these in your sales pitch to your "Local Offline businesses", you can add the QR Code tag to ANY NEW or EXISTING post or page by clicking the 'Add Tag' widget to insert the short code that displays the 'QR Tag' where you want it to be displayed in your post, click to publish or update the post to finish the procedure.
+
+== Installation ==
+
+1. Upload `My_QR_Code.zip` to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress

@@ -1,0 +1,20 @@
+#table_inner td
+{
+    padding: 0px;
+}
+.qrshowele
+{
+    display:table-row;
+}
+.qrhideele
+{
+    display:none;
+}
+#mailinside
+{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+
+
